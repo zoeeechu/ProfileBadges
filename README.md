@@ -9,4 +9,4 @@ to add to your readme...
 </div>
 ```
 
-> replace the file url with which ever badge you want
+> replace the file url with which ever badge you want as well as the alt text
