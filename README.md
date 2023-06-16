@@ -5,7 +5,7 @@ to add to your readme...
 
 ```
 <div id="badge" align="right">
-<img src="https://github.com/zoeeechu/Profile-Badges/blob/main/Pride%20Badges/Dev_Trans.png?raw=true" alt="This Developer is Trans" width="30"/>
+<img src="https://github.com/zoeeechu/Profile-Badges/blob/main/Pride%20Badges/Dev_Trans.png?raw=true" title="This Developer is Trans" width="30"/>
 </div>
 ```
 
