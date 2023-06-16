@@ -4,8 +4,6 @@ neat Badges for your readme profile (still a concept)
 to add to your readme...
 
 ```<div id="badge" align="right">
-
-![Alt This Developer is Trans](https://github.com/zoeeechu/Profile-Badges/blob/main/Pride%20Badges/Dev_Trans.png)
 <img src="https://github.com/zoeeechu/Profile-Badges/blob/main/Pride%20Badges/Dev_Trans.png?raw=true" alt="This Developer is Trans" width="30"/>
 </div>
 ```
